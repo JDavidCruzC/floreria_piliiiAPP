@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Logs
-=======
 # --- LOGS ---
->>>>>>> 2defd8233682ad8cee13a7aea2e4b9a0e0f66e0e
 logs
 *.log
 npm-debug.log*
@@ -11,9 +7,6 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-<<<<<<< HEAD
-node_modules
-=======
 # --- RUNTIME DATA ---
 pids
 *.pid
@@ -34,17 +27,10 @@ coverage
 .nuxt
 .next
 out
->>>>>>> 2defd8233682ad8cee13a7aea2e4b9a0e0f66e0e
 dist
 dist-ssr
 *.local
 
-<<<<<<< HEAD
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-=======
 # --- NODE & PACKAGE MANAGERS ---
 node_modules/
 jspm_packages/
@@ -73,15 +59,12 @@ Release/
 .vscode/*
 !.vscode/extensions.json
 .idea/
->>>>>>> 2defd8233682ad8cee13a7aea2e4b9a0e0f66e0e
 .DS_Store
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
-<<<<<<< HEAD
-=======
 
 # --- TOOLS ---
 .lock-wscript
@@ -96,4 +79,3 @@ Release/
 # --- CONFIG LOGS (Vite, etc) ---
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
->>>>>>> 2defd8233682ad8cee13a7aea2e4b9a0e0f66e0e
