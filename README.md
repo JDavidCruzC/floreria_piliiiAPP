@@ -1,6 +1,6 @@
-![Encabezado Florería Pili](/imgs/encabezado.png)
+![Encabezado Florería Pili](/encabezado.png)
 
-🌸 **Florería Pili App — Gestión y Ventas de Flores en Línea**
+🌸 **Florería Pili App — Gestión y Ventas de Flores en Línea**🌸
 -------------------------------------------------------------
 
 Sistema web completo para la gestión de una florería, desarrollado con tecnologías modernas como **React**, **Supabase**, **Tailwind CSS** y arquitectura escalable en la nube.  
@@ -8,19 +8,19 @@ Ideal para administración, ventas y marketing de una florería, integrando func
 
 ---
 
-### ✨ Características
+###  Características
 
-* 🧑‍💼 Gestión de usuarios por rol: `gerente`, `admin`, `vendedor`, `delivery`, `marketing`
-* 🛒 Catálogo de productos florales para venta directa
-* 📦 Gestión de pedidos y seguimiento de entregas
-* 📬 Contacto vía WhatsApp, correo y teléfono desde la app
-* 🌐 Redes sociales integradas
-* 🔒 Inicio de sesión seguro con contraseñas cifradas
-* 📊 Paneles de administración con accesos restringidos según el rol
+* Gestión de usuarios por rol: `gerente`, `admin`, `vendedor`, `delivery`, `marketing`
+* Catálogo de productos florales para venta directa
+* Gestión de pedidos y seguimiento de entregas
+* Contacto vía WhatsApp, correo y teléfono desde la app
+* Redes sociales integradas
+* Inicio de sesión seguro con contraseñas cifradas
+* Paneles de administración con accesos restringidos según el rol
 
 ---
 
-### 🧱 Arquitectura General
+### Arquitectura General
 Florería Pili App
 ├── Cliente (Web)
 │ └── React + Tailwind + Vite
@@ -31,7 +31,7 @@ Florería Pili App
 
 ---
 
-### 🧑‍🎨 Roles y Accesos
+### Roles y Accesos
 
 | Rol          | Acceso a Gestión de Usuarios | Acceso a Pedidos | Acceso al Dashboard |
 |--------------|------------------------------|------------------|----------------------|
@@ -44,7 +44,7 @@ Florería Pili App
 
 ---
 
-### 🧪 Requisitos
+### Requisitos
 
 * Node.js 18+
 * Proyecto de Supabase configurado
@@ -53,7 +53,7 @@ Florería Pili App
 
 ---
 
-### 🚀 Instalación
+### Instalación
 
 1. **Clona el proyecto**
 ```bash
@@ -77,14 +77,14 @@ VITE_SUPABASE_ANON_KEY=eyJhbGciOiJ...
 ```bash
 npm run dev
 ```
-### 🔐 Seguridad
+### Seguridad
 Las contraseñas se encriptan con bcryptjs antes de almacenarse en Supabase.
 
 Al iniciar sesión, se valida el hash y se protege el acceso según el rol.
 
 El sistema filtra vistas y accesos dinámicamente según permisos.
 
-###🖼️ Estructura del Proyecto
+### Estructura del Proyecto
 ```bash
 floreria_piliiiAPP/
 ├── src/
@@ -101,21 +101,21 @@ floreria_piliiiAPP/
 └── index.html
 
 ```
-📦 Funcionalidades Futuras
-- 🧾 Facturación electrónica (SUNAT)
-- 💳 Integración con pasarelas de pago (Yape, Plin, Culqi)
-- 📱 Notificaciones push
-- 📈 Dashboard de métricas de ventas y marketing
+### Funcionalidades Futuras
+- Facturación electrónica (SUNAT)
+- Integración con pasarelas de pago (Yape, Plin, Culqi)
+- Notificaciones push
+- Dashboard de métricas de ventas y marketing
 
-🧠 Contribuir
+### Contribuir
 - Haz un fork del proyecto.
 - Crea una nueva rama (git checkout -b feature/nueva-funcionalidad)
 - Haz tus cambios y commitea (git commit -m 'Agrega nueva funcionalidad')
 - Haz push (git push origin feature/nueva-funcionalidad)
 - Abre un Pull Request
 
-📄 Licencia
+### Licencia
 MIT License — ¡Libertad para compartir, modificar y desplegar!
 
-💖 Créditos
+### Créditos
 Proyecto académico desarrollado con amor por estudiantes de UNAM Ilo, orientado a pequeñas empresas peruanas que quieren digitalizar sus ventas.
