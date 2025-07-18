@@ -1,4 +1,4 @@
-![Encabezado Florería Pili](/encabezado.png)
+![Encabezado Florería Pili](/public/encabezado.png)
 
 🌸 **Florería Pili App — Gestión y Ventas de Flores en Línea**🌸
 -------------------------------------------------------------
