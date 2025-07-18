@@ -21,6 +21,7 @@ Ideal para administración, ventas y marketing de una florería, integrando func
 ---
 
 ### Arquitectura General
+```
 Florería Pili App
 ├── Cliente (Web)
 │ └── React + Tailwind + Vite
@@ -28,7 +29,7 @@ Florería Pili App
 │ └── Supabase (DB + Auth + Storage)
 ├── Infraestructura
 │ └── Supabase Hosting + GitHub Pages 
-
+```
 ---
 
 ### Roles y Accesos
