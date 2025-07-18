@@ -1,7 +1,7 @@
 ![Encabezado Florería Pili](/public/encabezado.png)
 
 🌸 **Florería Pili App — Gestión y Ventas de Flores en Línea**🌸
--------------------------------------------------------------
+-----------------------------------------------------------------
 
 Sistema web completo para la gestión de una florería, desarrollado con tecnologías modernas como **React**, **Supabase**, **Tailwind CSS** y arquitectura escalable en la nube.  
 Ideal para administración, ventas y marketing de una florería, integrando funcionalidades para usuarios internos y clientes.
@@ -21,7 +21,6 @@ Ideal para administración, ventas y marketing de una florería, integrando func
 ---
 
 ### Arquitectura General
-```
 Florería Pili App
 ├── Cliente (Web)
 │ └── React + Tailwind + Vite
@@ -29,7 +28,7 @@ Florería Pili App
 │ └── Supabase (DB + Auth + Storage)
 ├── Infraestructura
 │ └── Supabase Hosting + GitHub Pages 
-```
+
 ---
 
 ### Roles y Accesos
@@ -40,7 +39,7 @@ Florería Pili App
 | `gerente`    | ✅                            | ✅                | ✅                    |
 | `admin`      | ✅                            | ✅                | ✅                    |
 | `vendedor`   | ❌                            | ✅                | ✅                    |
-| `delivery`   | ❌                            | ✅ (solo asignados)| ✅                    |
+| `delivery`   | ❌                            | ✅(solo asignados)| ✅                    |
 | `marketing`  | ❌                            | ❌                | ✅                    |
 
 ---
