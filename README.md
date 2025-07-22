@@ -36,7 +36,6 @@ Florería Pili App
 
 | Rol          | Acceso a Gestión de Usuarios | Acceso a Pedidos | Acceso al Dashboard |
 |--------------|------------------------------|------------------|----------------------|
-| `super_admin`| ✅                            | ✅                | ✅                    |
 | `gerente`    | ✅                            | ✅                | ✅                    |
 | `admin`      | ✅                            | ✅                | ✅                    |
 | `vendedor`   | ❌                            | ✅                | ✅                    |
