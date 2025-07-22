@@ -118,4 +118,8 @@ floreria_piliiiAPP/
 MIT License — ¡Libertad para compartir, modificar y desplegar!
 
 ### Créditos
-Proyecto académico desarrollado con amor por estudiantes de UNAM Ilo, orientado a pequeñas empresas peruanas que quieren digitalizar sus ventas.
+El presente proyecto, 🌸 Florería Pili App — Gestión y Ventas de Flores en Línea 🌸, fue desarrollado con dedicación y entusiasmo por estudiantes de la Universidad Nacional de Moquegua (UNAM Ilo), para apoyar a pequeñas empresas peruanas en su proceso de digitalización y mejora de ventas mediante herramientas tecnológicas modernas.
+Agradecemos especialmente a:
+- Nuestros profesores por su guía y apoyo durante todo el proceso.
+- Las pequeñas empresas que nos inspiraron a crear soluciones reales y útiles.
+- Familiares y compañeros por su constante apoyo y motivación.
