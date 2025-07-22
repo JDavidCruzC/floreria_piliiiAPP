@@ -19,8 +19,9 @@ Ideal para administración, ventas y marketing de una florería, integrando func
 * Paneles de administración con accesos restringidos según el rol
 
 ---
-```
+
 ### Arquitectura General
+```
 Florería Pili App
 ├── Cliente (Web)
 │ └── React + Tailwind + Vite
