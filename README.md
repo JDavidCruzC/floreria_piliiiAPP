@@ -19,7 +19,7 @@ Ideal para administración, ventas y marketing de una florería, integrando func
 * Paneles de administración con accesos restringidos según el rol
 
 ---
-
+```
 ### Arquitectura General
 Florería Pili App
 ├── Cliente (Web)
@@ -28,7 +28,7 @@ Florería Pili App
 │ └── Supabase (DB + Auth + Storage)
 ├── Infraestructura
 │ └── Supabase Hosting + GitHub Pages 
-
+```
 ---
 
 ### Roles y Accesos
