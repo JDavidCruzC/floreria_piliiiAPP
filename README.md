@@ -107,13 +107,6 @@ floreria_piliiiAPP/
 - Notificaciones push
 - Dashboard de métricas de ventas y marketing
 
-### Contribuir
-- Haz un fork del proyecto.
-- Crea una nueva rama (git checkout -b feature/nueva-funcionalidad)
-- Haz tus cambios y commitea (git commit -m 'Agrega nueva funcionalidad')
-- Haz push (git push origin feature/nueva-funcionalidad)
-- Abre un Pull Request
-
 ### Licencia
 MIT License — ¡Libertad para compartir, modificar y desplegar!
 
