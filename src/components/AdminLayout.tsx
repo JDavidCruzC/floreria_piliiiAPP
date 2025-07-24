@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { Button } from '@/components/ui/button';
@@ -22,10 +23,6 @@ const menuItems = [
 const AdminLayout: React.FC<AdminLayoutProps> = ({ children, title }) => {
   const location = useLocation();
 
-  // 👉 Agregar nombre del usuario desde localStorage
-  const usuario = JSON.parse(localStorage.getItem('floreria_user') || '{}');
-  const nombre = usuario?.nombre || 'Usuario';
-
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
@@ -45,7 +42,7 @@ const AdminLayout: React.FC<AdminLayoutProps> = ({ children, title }) => {
             </div>
             <div className="flex items-center gap-4">
               <span className="text-sm text-gray-600">
-                Bienvenida, {nombre} 👋
+                Bienvenida, Fiorela 👋
               </span>
               <Link to="/admin">
                 <Button variant="outline" size="sm">
