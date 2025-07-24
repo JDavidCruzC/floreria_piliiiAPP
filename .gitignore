@@ -1,0 +1,83 @@
+# --- LOGS ---
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- RUNTIME DATA ---
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# --- CACHE & COVERAGE ---
+.cache
+.parcel-cache
+.nyc_output
+coverage
+*.lcov
+*.tsbuildinfo
+.vitepress/
+.vitepress/cache
+.docusaurus
+.svelte-kit/
+.nuxt
+.next
+out
+dist
+dist-ssr
+*.local
+
+# --- NODE & PACKAGE MANAGERS ---
+node_modules/
+jspm_packages/
+bower_components/
+web_modules/
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.yarn-integrity
+
+# --- BUILD/RELEASE ---
+build/
+Release/
+*.tgz
+
+# --- ENVIRONMENTS ---
+.env
+.env.*
+!.env.example
+
+# --- IDEs/EDITORS ---
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- TOOLS ---
+.lock-wscript
+.grunt
+.serverless/
+.fusebox/
+.firebase/
+.dynamodb/
+.tern-port
+.vscode-test
+
+# --- CONFIG LOGS (Vite, etc) ---
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+.vercel
